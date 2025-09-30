@@ -15,3 +15,4 @@ const firstBoolean = getFirstElement<boolean>([true, false, true]);
 
 console.log(firstNumber, firstString, firstBoolean);
 
+// Напиши функцію isEmpty, яка перевіряє, чи є об'єкт або масив порожнім. Якщо порожній, функція має повернути true, в іншому випадку false
